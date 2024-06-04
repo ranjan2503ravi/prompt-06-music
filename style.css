@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contener{
+    width: 50%;
+    height: 90%;
+    background-color: #F2F1EC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    width: 40%;
+    height: 90%;
+    background-color: #dfc89a60;
+}
+.im{
+    background-image: url(png-transparent-girl-listen-music-with-headphone.png);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 50%;
+}
+.logo{
+    height: 40px;
+    display: flex;
+font-weight: 800;
+}
+.logo i{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.first{
+    margin-top: 20px;
+    margin-left: 55px;   
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    margin-left: 33px;
+    margin-top: 60px;
+    border-radius: 10px;
+    background-image: url(isto.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat:
+  
+}
+h5{
+    margin-top: 65px;
+    margin-left: 95px;
+}
+.second{
+    margin-left: 65px;
+    font-size: 15px;   
+}
+.icon i{
+    margin-left: 50px;
+    margin-top: 70px;
+    font-size: 30px;
+}
+.next-ic i{
+   margin-left: 10px;
+   margin-bottom: 5px;
+}
+.ol i{
+    margin-left: 250px
+}
